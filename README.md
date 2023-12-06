@@ -1,6 +1,6 @@
 # Core contracts for TGS
 
-> **This repository is archived. Please visit [TGS](https://github.com/tgs-guru/tgs) repo for more information.**
+> **This repository is archived. Please visit [TGS contracts on Flow](https://github.com/tgs-guru/contracts-on-flow) repo for more information.**
 
 ---
 
