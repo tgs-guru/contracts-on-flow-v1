@@ -1,5 +1,9 @@
 # Core contracts for TGS
 
+> **This repository is archived. Please visit [TGS](https://github.com/tgs-guru/tgs) repo for more information.**
+
+---
+
 ## How to use (for Developement)
 
 > Initialize TGS Platform
