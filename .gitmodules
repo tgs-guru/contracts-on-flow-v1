@@ -1,0 +1,18 @@
+[submodule "deps/flow-utils"]
+	path = deps/flow-utils
+	url = https://github.com/Flowtyio/flow-utils.git
+[submodule "deps/flow-nft"]
+	path = deps/flow-nft
+	url = https://github.com/onflow/flow-nft.git
+[submodule "deps/flow-ft"]
+	path = deps/flow-ft
+	url = https://github.com/onflow/flow-ft.git
+[submodule "deps/flow-core-contracts"]
+	path = deps/flow-core-contracts
+	url = https://github.com/onflow/flow-core-contracts.git
+[submodule "deps/hybrid-custody"]
+	path = deps/hybrid-custody
+	url = https://github.com/btspoony/hybrid-custody.git
+[submodule "deps/hybrid-custody-helper"]
+	path = deps/hybrid-custody-helper
+	url = https://github.com/btspoony/hybrid-custody-helper.git
