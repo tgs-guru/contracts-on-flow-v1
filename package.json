@@ -1,6 +1,5 @@
 {
   "name": "@tgs-guru/contracts-on-flow",
-  "private": true,
   "version": "0.1.0",
   "exports": {
     "./contracts/*": "./contracts/*",
